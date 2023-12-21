@@ -1,0 +1,109 @@
+/* Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Agbalumo&family=Playfair+Display&family=Roboto:ital,wght@0,400;0,500;1,400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Agbalumo&family=Lato:wght@400;700&family=Playfair+Display&family=Roboto:ital,wght@0,400;0,500;1,400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Agbalumo&family=Cedarville+Cursive&family=Lato:wght@400;700&family=Playfair+Display&family=Roboto:ital,wght@0,400;0,500;1,400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Afacad&family=Agbalumo&family=Cedarville+Cursive&family=Lato:wght@400;700&family=Playfair+Display&family=Roboto:ital,wght@0,400;0,500;1,400&display=swap');
+
+/* Footer */
+.footer{
+  background-color: rgb(61, 60, 68);
+  color:rgb(131, 130, 141);
+  font-family: Afacad;
+  font-style: bold;
+  position: relative;
+  font-size: 30px;
+}
+
+.footername{
+  color:white;
+  font-size: 30px;
+  padding-bottom: 5px;
+}
+
+.footercontent{
+  color:rgb(202, 201, 210)
+}
+
+.googleclassroom{
+  padding: 10px;
+  padding-top: 20px;
+}
+
+/* Career */
+
+.unibackground{
+  background-color: aliceblue;
+  font-family: Roboto;
+  padding-bottom: 10px;
+}
+
+.webdevimg{
+  padding: 10px;
+  padding-bottom: 20px;
+}
+
+.universitytitle{
+  width: 75px;
+  height:60px;
+  padding: 12px;
+  padding-bottom: 5px;
+  padding-top: 15px;
+  margin: 10px;
+}
+
+/* Home */
+
+.textindex{
+  background-color: aliceblue;
+  font-family: Roboto;
+  padding:10px;
+  margin:2px;
+}
+
+.caption{
+    font-size: 13px;
+    font-family: Roboto;
+}
+
+.websitesowned{
+  width: 75px;
+  height:60px;
+  padding: 12px;
+  padding-bottom: 5px;
+  margin: 10px;
+}
+
+.aboutme{
+  width: 75px;
+  height:60px;
+  padding: 12px;
+  padding-bottom: 5px;
+  margin: 10px;
+}
+
+/* Other */
+
+.myname{
+    font-family: Cedarville Cursive;
+    font-style: italic;
+    font-size: 120px;
+    text-align: center;
+}
+
+.navbar{
+    background: rgb(25, 122, 167);
+    position: fixed;
+    font-family: Lato;
+}
+
+.btn:hover{
+    opacity: 70%;
+    font-style: italic;
+    font-weight: bold;
+}
+
+hr{
+  height: 2px;
+  background-color: rgb(113, 195, 233);
+  border: none;
+}

@@ -1,0 +1,121 @@
+@import url('https://fonts.googleapis.com/css2?family=Agbalumo&family=Playfair+Display&family=Roboto:ital@1&display=swap');
+
+
+body{
+    background-color: rgb(244, 244, 199);
+}
+
+a{
+    color:white;
+    text-decoration: none;
+    font-size: 20px;
+}
+
+a:hover{
+    color:rgb(90, 186, 205);
+    text-decoration: underline;
+}
+
+
+
+.navbuttons{
+    background-color: rgb(43, 43, 38);
+    display: inline;
+    border: 3px solid rgb(43, 43, 38);
+    padding: 12px;
+    margin: 20px;
+}
+
+
+
+#header{
+    background-color: rgb(211, 211, 167);
+    position: relative;
+    left: -25px;
+    top: -20px;
+    width: 1377px;
+    padding: 2px;
+    margin: 2px;
+    color: black;
+    font-size: 25px;
+    text-align: center;
+    z-index: 3;
+}
+
+#nav{
+    background-color: rgb(180, 180, 145);
+    position: absolute;
+    width: 1386px;
+    height: 56px;
+    left: -20px;
+    top: 110px;
+    z-index: 4;
+}
+
+#section{
+    background-color: rgb(157, 157, 114);
+    position: absolute;
+    width: 1250px;
+    height: 1625px;
+    z-index: -1;
+    left: 55px;
+    top: 163px;
+    border: 5px solid rgb(157, 157, 114);
+}
+
+#footer{
+    background-color: rgb(107, 107, 65);
+    position: absolute;
+    width: 1366px;
+    height: 300px;
+    z-index: 0;
+    bottom: -1350px;
+    left: 0px;
+    font-family: Playfair Display;
+    font-style: italic;
+    color:whitesmoke;
+    font-size: 40px;
+    text-align:center;
+}
+
+#galleryfooter{
+    bottom:1000px;
+}
+
+#img1{
+    position: absolute;
+    height:450px;
+    width:600px;
+    bottom: -80px;
+    left:50px;
+    border: 1px solid black;
+}
+
+#img2{
+    position: absolute;
+    width: 500px;
+    height:500px;
+    bottom:-125px;
+    right: 100px;
+    border: 1px solid black;
+}
+
+#img3{
+    position: absolute;
+    width: 500px;
+    height:500px;
+    bottom:-825px;
+    right: 100px;
+    border: 1px solid black;
+}
+
+
+#img4{
+    position: absolute;
+    width: 360px;
+    height:480px;
+    bottom:-825px;
+    left: 100px;
+    border: 1px solid black;
+}
+
